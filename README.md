@@ -1,4 +1,4 @@
-# Hi, I'm Liyon Ramesh 👋
+# Hi, I'm Liyon Ramesh 
 
 Founder & Lead Developer at **RepairsMaster, LLC** - Building intelligent software solutions
 
